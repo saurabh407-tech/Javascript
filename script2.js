@@ -84,7 +84,7 @@ console.log("Congratulations!! You win the game");
 //Strings in javascript
 
 let str1="Sachinji"
-let str2="Saurabh"
+let str2="Saurabh" 
 
 console.log(str1.length);
 console.log(str2.length);
