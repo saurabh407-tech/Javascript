@@ -1,4 +1,4 @@
-// DOM Manipulation
+//DOM Manipulation
 
 //fetch element by class name
 let headin = document.getElementsByClassName("heading")
@@ -31,3 +31,6 @@ divs[0].innerText="New value of box 1"           //to make changes after accessi
 divs[1].innerText="New value of box 2"
 divs[2].innerText="New value of box 3"
 
+
+let para=document.querySelector("p");
+console.log(para.getAttribute("class"))
